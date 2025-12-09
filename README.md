@@ -4,7 +4,7 @@ Currently, EasyAntiCheat automatically boots Linux players from co-op games. Thi
 
 Linux users do not require this script, but may need to add `-eac_launcher` to the Launch Properties of their Wildlands game in Steam (under the game's Properties.)
 
-To run on Windows, download and copy all three files to your Wildlands installation folder. Double-click the `.bat` file to run it (or right-click and "Run as administrator" if elevated permissions are required.)
+To run on Windows, download and copy all three files (excluding README.md) to your Wildlands installation folder. Double-click the `.bat` file to run it (or right-click and "Run as administrator" if elevated permissions are required.)
 
 If the game was installed through Steam then your Wildlands installation folder may be `C:\Program Files (x86)\Steam\steamapps\common\GhostReconWildlands\`.
 
